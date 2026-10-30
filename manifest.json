@@ -1,0 +1,20 @@
+{
+  "name": "مطعم حمزه",
+  "short_name": "مطعم حمزه",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#faf9f6",
+  "theme_color": "#ff6a00",
+  "icons": [
+    {
+      "src": "images/logohamza.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "images/logohamza.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
+  ]
+}
